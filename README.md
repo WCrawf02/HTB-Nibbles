@@ -35,7 +35,14 @@ The purpose of this Lab is to achieve highest privilege escalation possible.
 - After some digging around with the info provided by gobuster, was able to find the username of "admin"
 <img width="1190" alt="Nibbles5" src="https://github.com/WCrawf02/HTB-Nibbles/assets/149023031/dae1bbbf-4ec8-4ec9-ac7e-a14e219d06a1">
 
-- Uplaoded my payload into target plugins for "Initial Foothold"
+- Uploaded my payload into target plugins for "Initial Foothold"
+<img width="743" alt="Nibbles6" src="https://github.com/WCrawf02/HTB-Nibbles/assets/149023031/d1ca253a-7a97-4970-952d-18ef05174d7a">
+
+- Able to gain remote code execution w/ my payload
+<img width="825" alt="Nibbles7" src="https://github.com/WCrawf02/HTB-Nibbles/assets/149023031/80e0e6d6-033e-42e2-a897-733dfe718196">
+
+- Started a netcat listener for my reverse shell 😁
+
 
 
 
