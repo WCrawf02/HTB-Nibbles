@@ -42,6 +42,14 @@ The purpose of this Lab is to achieve highest privilege escalation possible.
 <img width="825" alt="Nibbles7" src="https://github.com/WCrawf02/HTB-Nibbles/assets/149023031/80e0e6d6-033e-42e2-a897-733dfe718196">
 
 - Started a netcat listener for my reverse shell 😁
+<img width="775" alt="nibbler7" src="https://github.com/WCrawf02/HTB-Nibbles/assets/149023031/ef78858a-62a7-4292-8e66-fd2c7a10ec53">
+
+- Upgraded to full TTY with python3 command
+
+<img width="557" alt="nibbler8" src="https://github.com/WCrawf02/HTB-Nibbles/assets/149023031/a2eccac3-6369-42b1-bdf3-11055b004b39">
+
+  - Gained privilege and captured the FLAG ! 💰
+
 
 
 
